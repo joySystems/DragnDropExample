@@ -77,5 +77,8 @@ border: 5px solid #eee;
 
 .hovered{
 
-  border-top: 2px solid #229efd;
+  border: 2px solid #229efd1e;;
+  border-radius: 20px;
+  background: #229efd1e;
+  
 }
