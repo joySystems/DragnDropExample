@@ -74,3 +74,8 @@ border: 5px solid #eee;
 
   display:none;
 }
+
+.hovered{
+
+  border-top: 2px solid #229efd;
+}
