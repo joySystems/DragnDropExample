@@ -20,6 +20,5 @@ function dragstart(event){
 function dragend (event) {
 
     
-    event.target.classList.remove('hold');
-    event.target.classList.add('hide');
+    event.target.className = "item";
 }
